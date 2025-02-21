@@ -1,32 +1,27 @@
 # Cyber-Security
 
-   Cybersecurity is the practice of protecting systems, networks, and programs from digital attacks. 
+   Oracle VirtualBox is a virtualization software that allows you to run multiple operating systems on a single computer. It's designed for developers and IT professionals. 
 
+Features:
+  ✓ Run multiple operating systems, like Windows, Linux, Mac OS X, and Oracle Solaris, simultaneously
+  ✓ Test, develop, demonstrate, and deploy solutions across multiple platforms
+  ✓  Create and run multiple virtual machines
+  ✓ Run Windows on Linux systems 
+  ✓ Run Linux and Solaris on a Windows PC
+  ✓ Run Windows and Linux on a Mac
 
-How does cybersecurity work?
+Benefits:
+   * Helps developers deliver code faster
+   * Helps IT teams and solution providers reduce operational costs
+   * Helps shorten the time needed to securely deploy applications
+   * Helps compile to different executable types
 
-Network security:
-                   Uses firewalls, anti-virus, and other technologies to protect networks from cyberattacks 
+       Supported systems Windows, Mac OS X, Linux, and Oracle Solaris systems. 
 
-Application security:
-                   Develops security features into applications to prevent unauthorized access and modification 
+License:
+Personal Use and Evaluation License (PUEL) allows free access for personal use, educational use, and evaluation
 
-Patch management:
-                   Applies updates to systems to fix vulnerabilities and protect against cyberattacks 
+History:
+        •Innotek GmbH created VirtualBox and released it as an open-source software package in 2007
 
-Anti-virus software:
-                   Detects and removes threats
-
-Types of cyberattacks:
-
-Phishing:
-           Uses fraudulent communications to trick people into sharing sensitive data or downloading malware 
-
-Ransomware:
-           A type of malware that encrypts data and demands a ransom to decrypt it 
-
-Cybersecurity examples: 
-          Using strong passwords, Installing and maintaining anti-virus software, Keeping systems updated, and Using data loss prevention (DLP) software. 
-
-Cybersecurity goal:
-The goal of cybersecurity is to protect systems and networks from digital attacks that could lead to financial loss, data theft, or business disruption. 
+        •Oracle Corporation purchased Sun Microsystems in 2010 and took over developing VirtualBox
