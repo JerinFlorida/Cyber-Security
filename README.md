@@ -3,6 +3,7 @@
    Oracle VirtualBox is a virtualization software that allows you to run multiple operating systems on a single computer. It's designed for developers and IT professionals. 
 
 Features:
+  
   ✓ Run multiple operating systems, like Windows, Linux, Mac OS X, and Oracle Solaris, simultaneously
 
   ✓ Test, develop, demonstrate, and deploy solutions across multiple platforms
@@ -28,4 +29,5 @@ Personal Use and Evaluation License (PUEL) allows free access for personal use, 
 
 History:
         •Innotek GmbH created VirtualBox and released it as an open-source software package in 2007
+
         •Oracle Corporation purchased Sun Microsystems in 2010 and took over developing VirtualBox
