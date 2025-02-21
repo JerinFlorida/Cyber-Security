@@ -4,10 +4,15 @@
 
 Features:
   ✓ Run multiple operating systems, like Windows, Linux, Mac OS X, and Oracle Solaris, simultaneously
+
   ✓ Test, develop, demonstrate, and deploy solutions across multiple platforms
+
   ✓  Create and run multiple virtual machines
+
   ✓ Run Windows on Linux systems 
+
   ✓ Run Linux and Solaris on a Windows PC
+
   ✓ Run Windows and Linux on a Mac
 
 Benefits:
