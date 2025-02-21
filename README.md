@@ -4,11 +4,11 @@
 
 Features:
   
-  ✓ Run multiple operating systems, like Windows, Linux, Mac OS X, and Oracle Solaris, simultaneously
+  ✓ Run multiple operating systems, like Windows, Linux,         Mac OS X,and Oracle Solaris, simultaneously
 
-  ✓ Test, develop, demonstrate, and deploy solutions across multiple platforms
+  ✓ Test,develop,demonstrate,and deploy solutions across multiple platforms
 
-  ✓  Create and run multiple virtual machines
+  ✓ Create and run multiple virtual machines
 
   ✓ Run Windows on Linux systems 
 
@@ -22,7 +22,7 @@ Benefits:
    * Helps shorten the time needed to securely deploy applications
    * Helps compile to different executable types
 
-       Supported systems Windows, Mac OS X, Linux, and Oracle Solaris systems. 
+           Supported systems Windows, Mac OS X, Linux, and Oracle Solaris systems. 
 
 License:
 Personal Use and Evaluation License (PUEL) allows free access for personal use, educational use, and evaluation
