@@ -23,5 +23,4 @@ Personal Use and Evaluation License (PUEL) allows free access for personal use, 
 
 History:
         •Innotek GmbH created VirtualBox and released it as an open-source software package in 2007
-
         •Oracle Corporation purchased Sun Microsystems in 2010 and took over developing VirtualBox
