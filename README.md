@@ -21,7 +21,8 @@ Benefits:
    * Helps IT teams and solution providers reduce operational costs
    * Helps shorten the time needed to securely deploy applications
    * Helps compile to different executable types
-         Supported systems Windows, Mac OS X, Linux, and Oracle Solaris systems. 
+
+     Supported systems Windows, Mac OS X, Linux, and Oracle Solaris systems. 
 
 License:
 Personal Use and Evaluation License (PUEL) allows free access for personal use, educational use, and evaluation
